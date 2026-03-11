@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sri-vasavi-digital-service.vercel.app/sitemap.xml
